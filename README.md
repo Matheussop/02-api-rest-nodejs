@@ -5,7 +5,7 @@ Projeto 02 desenvolvido durante a trilha Node do Ignite 2023 da Rocketseat
 # Requisitos Funcionais (RF)
 
 - [x] O usuário deve poder criar uma nova transação;
-- [] O usuário deve poder obter um resumo da sua conta;
+- [x] O usuário deve poder obter um resumo da sua conta;
 - [x] O usuário deve poder listar todas transações que já ocorreram;
 - [x] O usuário deve poder visualizar uma transação única;
 
